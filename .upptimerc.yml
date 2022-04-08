@@ -3,29 +3,51 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: HKMain_Slow endpoint
+    url: https://markets.hankyung.com/
+    maxResponseTime: 5000
+  - name: HKkospi_Slow endpoint
+    url: https://markets.hankyung.com/indices/kospi
+    maxResponseTime: 5000
+  - name: HKindustry_Slow endpoint
+    url: https://markets.hankyung.com/index-info/industry
+    maxResponseTime: 5000
+  - name: HKprogram-trading_Slow endpoint
+    url: https://markets.hankyung.com/investment/program-trading
+    maxResponseTime: 5000
+  - name: HKetf_Slow endpoint
+    url: https://markets.hankyung.com/equity-product/etf
+    maxResponseTime: 5000
+  - name: HKmarketmap-trading_Slow endpoint
+    url: https://markets.hankyung.com/marketmap/kospi
+    maxResponseTime: 5000
+  - name: HKconsensus_Slow endpoint
+    url: https://markets.hankyung.com/consensus
+    maxResponseTime: 5000
+  - name: HKcoin_Slow endpoint
+    url: https://www.hankyung.com/koreamarket/coin
+    maxResponseTime: 5000
+#  - name: HKprogram-trading_Slow endpoint
+#    url: https://news.ycombinator.com
+#    maxResponseTime: 5000
+#  - name: HKprogram-trading_Slow endpoint
+#    url: https://thissitedoesnotexist.koj.co
+#    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  #cname: demo.upptime.js.org
+   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: HKKOREA
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/gusrn2408/uptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
