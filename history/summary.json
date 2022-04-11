@@ -65,19 +65,17 @@
     "icon": "https://favicons.githubusercontent.com/markets.hankyung.com",
     "slug": "200",
     "status": "degraded",
-    "uptime": "99.75%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3836,
     "timeDay": 3836,
     "timeWeek": 3836,
     "timeMonth": 3836,
     "timeYear": 3836,
-    "dailyMinutesDown": {
-      "2022-04-11": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "업종등락",
