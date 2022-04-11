@@ -8,13 +8,13 @@ sites:
     maxResponseTime: 5000
   - name: 한경주요지수-코스피
     url: https://markets.hankyung.com/indices/kospi
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: 한경주요지수-코스닥
     url: https://markets.hankyung.com/indices/kosdaq
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: 한경주요지수-코스피200
     url: https://markets.hankyung.com/indices/kospi200
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: 업종등락
     url: https://markets.hankyung.com/index-info/industry
     maxResponseTime: 5000
