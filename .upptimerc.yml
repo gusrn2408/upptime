@@ -3,28 +3,55 @@ owner: gusrn2408 # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: HKMain_Slow endpoint
+  - name: 한경메인
     url: https://markets.hankyung.com/
-    maxResponseTime: 1
-  - name: HKkospi_Slow endpoint
+    maxResponseTime: 5000
+  - name: 한경주요지수-코스피
     url: https://markets.hankyung.com/indices/kospi
-    maxResponseTime: 1
-  - name: HKindustry_Slow endpoint
+    maxResponseTime: 5000
+  - name: 한경주요지수-코스닥
+    url: https://markets.hankyung.com/indices/kosdaq
+    maxResponseTime: 5000
+  - name: 한경주요지수-코스피200
+    url: https://markets.hankyung.com/indices/kospi200
+    maxResponseTime: 5000
+  - name: 업종등락
     url: https://markets.hankyung.com/index-info/industry
-    maxResponseTime: 1
-  - name: HKprogram-trading_Slow endpoint
+    maxResponseTime: 5000
+  - name: 시가총액
+    url: https://markets.hankyung.com/index-info/marketcap
+    maxResponseTime: 5000
+  - name: 거래량
+    url: https://markets.hankyung.com/index-info/volume
+    maxResponseTime: 5000
+  - name: 거래대금
+    url: https://markets.hankyung.com/index-info/amount
+    maxResponseTime: 5000
+  - name: 상승종목
+    url: https://markets.hankyung.com/index-info/up
+    maxResponseTime: 5000
+  - name: 하락종목
+    url: https://markets.hankyung.com/index-info/down
+    maxResponseTime: 5000    
+  - name: 신규상장
+    url: https://markets.hankyung.com/index-info/new
+    maxResponseTime: 5000
+  - name: 관리종목
+    url: https://markets.hankyung.com/index-info/attention
+    maxResponseTime: 5000    
+  - name: 프로그램매매동향
     url: https://markets.hankyung.com/investment/program-trading
-    maxResponseTime: 1
-  - name: HKetf_Slow endpoint
+    maxResponseTime: 5000
+  - name: ETF
     url: https://markets.hankyung.com/equity-product/etf
     maxResponseTime: 5000
-  - name: HKmarketmap-trading_Slow endpoint
+  - name: 마켓맵
     url: https://markets.hankyung.com/marketmap/kospi
     maxResponseTime: 5000
-  - name: HKconsensus_Slow endpoint
+  - name: 컨센서스
     url: https://markets.hankyung.com/consensus
     maxResponseTime: 5000
-  - name: HKcoin_Slow endpoint
+  - name: 비트코인
     url: https://www.hankyung.com/koreamarket/coin
     maxResponseTime: 5000
 #  - name: HKprogram-trading_Slow endpoint
