@@ -1,7 +1,7 @@
-url: https://www.hankyung.com/koreamarket/coin
-status: up
+url: https://markets.hankyung.com/indices/kosdaq
+status: degraded
 code: 200
-responseTime: 1064
-lastUpdated: 2022-04-12T23:32:35.830Z
+responseTime: 13715
+lastUpdated: 2022-04-13T05:49:38.830Z
 startTime: Mon Apr 11 2022 07:37:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
