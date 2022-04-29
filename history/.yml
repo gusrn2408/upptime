@@ -1,7 +1,7 @@
-url: https://www.hankyung.com/koreamarket/coin
-status: up
+url: https://markets.hankyung.com/indices/kospi
+status: degraded
 code: 200
-responseTime: 1333
-lastUpdated: 2022-04-28T23:34:42.409Z
+responseTime: 15512
+lastUpdated: 2022-04-29T05:45:59.276Z
 startTime: Mon Apr 11 2022 07:37:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
