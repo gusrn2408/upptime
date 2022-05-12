@@ -54,9 +54,9 @@ sites:
   - name: 비트코인
     url: https://www.hankyung.com/koreamarket/coin
     maxResponseTime: 5000
-#  - name: HKprogram-trading_Slow endpoint
-#    url: https://news.ycombinator.com
-#    maxResponseTime: 5000
+  - name: 종목상세
+    url: https://markets.hankyung.com/stock/005930
+    maxResponseTime: 5000
 #  - name: HKprogram-trading_Slow endpoint
 #    url: https://thissitedoesnotexist.koj.co
 #    maxResponseTime: 5000
