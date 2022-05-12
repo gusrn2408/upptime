@@ -1,7 +1,7 @@
-url: https://markets.hankyung.com/consensus
-status: degraded
+url: https://www.hankyung.com/koreamarket/coin
+status: up
 code: 200
-responseTime: 6878
-lastUpdated: 2022-05-12T05:55:01.569Z
+responseTime: 1155
+lastUpdated: 2022-05-12T05:55:03.475Z
 startTime: Mon Apr 11 2022 07:37:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
