@@ -1,7 +1,7 @@
 url: https://markets.hankyung.com/indices/kospi200
-status: degraded
+status: up
 code: 200
-responseTime: 6821
-lastUpdated: 2022-05-22T20:53:26.678Z
+responseTime: 3540
+lastUpdated: 2022-05-22T21:06:14.736Z
 startTime: Mon Apr 11 2022 07:37:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
