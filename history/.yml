@@ -1,7 +1,7 @@
-url: https://markets.hankyung.com/stock/005930
-status: up
+url: https://markets.hankyung.com/indices/kospi
+status: degraded
 code: 200
-responseTime: 1268
-lastUpdated: 2022-06-13T23:06:47.857Z
+responseTime: 6254
+lastUpdated: 2022-06-14T12:59:41.778Z
 startTime: Mon Apr 11 2022 07:37:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
