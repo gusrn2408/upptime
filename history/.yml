@@ -1,7 +1,7 @@
-url: https://markets.hankyung.com/index-info/amount
+url: https://markets.hankyung.com/index-info/up
 status: up
 code: 200
-responseTime: 4908
-lastUpdated: 2022-08-21T23:05:58.458Z
+responseTime: 4649
+lastUpdated: 2022-08-21T23:06:03.478Z
 startTime: Mon Apr 11 2022 07:37:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
