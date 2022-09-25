@@ -1,7 +1,7 @@
-url: https://markets.hankyung.com/investment/program-trading
-status: degraded
+url: https://markets.hankyung.com/marketmap/kospi
+status: up
 code: 200
-responseTime: 6749
-lastUpdated: 2022-09-25T01:50:12.850Z
+responseTime: 2582
+lastUpdated: 2022-09-25T01:50:43.934Z
 startTime: Mon Apr 11 2022 07:37:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
