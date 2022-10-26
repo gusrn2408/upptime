@@ -1,7 +1,7 @@
-url: https://markets.hankyung.com/index-info/up
-status: up
+url: https://www.hankyung.com/koreamarket/coin
+status: degraded
 code: 200
-responseTime: 4969
-lastUpdated: 2022-10-26T11:13:49.001Z
+responseTime: 6612
+lastUpdated: 2022-10-26T11:14:33.689Z
 startTime: Mon Apr 11 2022 07:37:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
