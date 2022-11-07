@@ -1,7 +1,7 @@
-url: https://markets.hankyung.com/index-info/amount
-status: up
+url: https://markets.hankyung.com/index-info/marketcap
+status: degraded
 code: 200
-responseTime: 4939
-lastUpdated: 2022-11-06T23:12:58.605Z
+responseTime: 8670
+lastUpdated: 2022-11-07T00:56:46.192Z
 startTime: Mon Apr 11 2022 07:37:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
