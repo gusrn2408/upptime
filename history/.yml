@@ -1,7 +1,7 @@
-url: https://markets.hankyung.com/indices/kospi
+url: https://markets.hankyung.com/indices/kosdaq
 status: up
 code: 200
-responseTime: 857
-lastUpdated: 2022-11-24T23:06:21.990Z
+responseTime: 941
+lastUpdated: 2022-11-24T23:06:23.208Z
 startTime: Mon Apr 11 2022 07:37:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
