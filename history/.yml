@@ -1,7 +1,7 @@
-url: https://markets.hankyung.com/stock/005930
-status: up
+url: https://markets.hankyung.com/index-info/marketcap
+status: degraded
 code: 200
-responseTime: 2474
-lastUpdated: 2023-01-02T23:05:09.845Z
+responseTime: 7694
+lastUpdated: 2023-01-03T00:29:15.733Z
 startTime: Mon Apr 11 2022 07:37:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
