@@ -1,7 +1,7 @@
 url: https://markets.hankyung.com/equity-product/etf
-status: up
-code: 200
-responseTime: 2450
-lastUpdated: 2023-03-12T23:06:03.268Z
+status: down
+code: 502
+responseTime: 2706
+lastUpdated: 2023-03-13T15:45:48.653Z
 startTime: Mon Apr 11 2022 07:38:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
